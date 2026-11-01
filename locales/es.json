@@ -1,0 +1,375 @@
+{
+  "lang": {
+    "dir": "ltr",
+    "short": "ES",
+    "name": "Español",
+    "ogLocale": "es_ES"
+  },
+  "meta": {
+    "title": "Stav Gueta | Decoradora de eventos en Ashkelon",
+    "description": "Decoración de eventos en Ashkelon: photocalls, veladas de hafrashat jalá, globos de helio, flores frescas y coche de novios. Montaje en el lugar.",
+    "shopTitle": "Tienda: globos y flores en Ashkelon | Stav Gueta",
+    "shopDescription": "Pide ramos de globos de helio, ramos de flores, una habitación sorpresa o la decoración del coche de novios. Colores, fecha y mensaje a tu gusto.",
+    "galleryTitle": "Galería: photocalls, globos y flores | Stav Gueta",
+    "galleryDescription": "Eventos reales de Stav Gueta: photocalls de despedida, hafrashat jalá, bienvenidas de boda, nacimientos, cumpleaños y habitaciones sorpresa.",
+    "legalTitle": "Accesibilidad y privacidad | Stav Gueta",
+    "legalDescription": "Declaración de accesibilidad y política de privacidad del sitio de Stav Gueta, decoración de eventos."
+  },
+  "brand": {
+    "role": "Diseño de eventos",
+    "slogan": "Cuando el diseño crea momentos que se quedan",
+    "area": "Ashkelon y alrededores"
+  },
+  "nav": {
+    "skip": "Ir al contenido",
+    "logo": "Stav Gueta, página de inicio",
+    "menu": "Menú",
+    "close": "Cerrar",
+    "home": "Inicio",
+    "designs": "Diseños",
+    "balloonsFlowers": "Globos y flores",
+    "shop": "Tienda",
+    "gallery": "Galería",
+    "about": "Sobre mí",
+    "contact": "Contacto",
+    "whatsapp": "WhatsApp",
+    "lang": "Idioma"
+  },
+  "intro": {
+    "skip": "Saltar"
+  },
+  "hero": {
+    "kicker": "Diseño de eventos · Ashkelon",
+    "title": "Una decoración que se siente desde la entrada",
+    "text": "Photocalls, veladas de hafrashat jalá, globos y flores frescas. Preparo cada detalle contigo y lo monto todo en el lugar, hasta la última vela.",
+    "ctaPlan": "Planear mi evento",
+    "ctaShop": "Ir a la tienda",
+    "videoLabel": "Fragmentos de eventos decorados por Stav: photocall de despedida con lazos, velada de hafrashat jalá y bienvenida de boda",
+    "pause": "Pausar el vídeo",
+    "play": "Reproducir el vídeo"
+  },
+  "trust": [
+    "Diseño a medida",
+    "Flores frescas",
+    "Montaje en el lugar",
+    "Ashkelon y alrededores"
+  ],
+  "events": {
+    "eyebrow": "Los grandes días",
+    "title": "Los momentos que se preparan con meses de antelación",
+    "text": "Un gran evento empieza con una sola idea: un color, una tela, una flor. A partir de ahí construyo todo lo demás.",
+    "hint": "Pasa el ratón para ver el evento",
+    "more": "Ver todos los trabajos",
+    "soon": "Fotos en camino",
+    "items": {
+      "hafrasha": {
+        "name": "Velada de hafrashat jalá",
+        "text": "Antes de la boda, la novia y las mujeres cercanas amasan jalá y recitan bendiciones. Telas blancas que caen, velas, flores blancas y crema y mesas puestas con precisión."
+      },
+      "wedding": {
+        "name": "Bodas",
+        "text": "Bienvenida de invitados, ramo de novia y decoración del coche de los novios, con el mismo estilo."
+      },
+      "mitzva": {
+        "name": "Bar y bat mitzvá",
+        "text": "La mayoría de edad religiosa, a los 13 años para los chicos y 12 para las chicas. Photocall, pared de globos y mesa de bienvenida según la edad, el estilo y el salón."
+      },
+      "evjf": {
+        "name": "Despedidas de soltera",
+        "text": "Pared con diseño gráfico personalizado, lazos hechos a mano, velas flotantes y torre de copas de cóctel."
+      }
+    }
+  },
+  "services": {
+    "eyebrow": "Todo lo que hago",
+    "title": "Doce maneras de celebrar",
+    "text": "Desde un solo ramo de globos hasta un salón entero. Eliges lo que va contigo y yo me encargo de que quede tal como lo imaginaste.",
+    "ask": "Preguntar",
+    "soon": "Foto próximamente",
+    "items": {
+      "photo": {
+        "name": "Photocalls",
+        "text": "Fondos diseñados a medida, con nombres, fecha y un estilo acorde al evento."
+      },
+      "balloons": {
+        "name": "Globos",
+        "text": "Arcos, paredes y ramos de helio. Sí, solo con globos un restaurante se convierte en fiesta."
+      },
+      "flowers": {
+        "name": "Flores",
+        "text": "Flores frescas para mesas y decorados, ramos de cumpleaños y ramo de novia."
+      },
+      "hafrasha": {
+        "name": "Hafrashat jalá",
+        "text": "La decoración completa de la velada: telas, velas, flores y montaje de mesas."
+      },
+      "car": {
+        "name": "Coche de los novios",
+        "text": "Paniculata, tul y perlas en el coche, con rotulación en la luna trasera."
+      },
+      "evjf": {
+        "name": "Despedida de soltera",
+        "text": "Un decorado al gusto de la novia: lazos, boho chic, rayas rosas o algo totalmente nuevo."
+      },
+      "mitzva": {
+        "name": "Bar y bat mitzvá",
+        "text": "Photocalls, globos y mesa de bienvenida a medida."
+      },
+      "birth": {
+        "name": "Brit, brita y zeved habat",
+        "text": "Las ceremonias de bienvenida de un recién nacido. Decorados delicados en rosa empolvado, perla y piedra, o celeste y blanco para un brit."
+      },
+      "birthday": {
+        "name": "Cumpleaños",
+        "text": "Desde un arco de globos hasta un decorado completo con cartel «Happy Birthday» y la edad."
+      },
+      "room": {
+        "name": "Habitación sorpresa",
+        "text": "Una habitación sorpresa en casa o en un hotel: globos, flores y lo que quieras añadir."
+      },
+      "numbers": {
+        "name": "Números gigantes",
+        "text": "Números decorados para una edad o una fecha, para una foto que se recuerda."
+      },
+      "special": {
+        "name": "Tu BeAv y fechas especiales",
+        "text": "Una pedida de mano, un aniversario o Tu BeAv, el día del amor en Israel. Un momento pequeño con un gran diseño."
+      }
+    }
+  },
+  "shop": {
+    "eyebrow": "La tienda",
+    "title": "Tú pides, yo preparo",
+    "text": "Piezas con precio fijo que puedes pedir directamente: eliges colores, fecha y mensaje, y lo confirmamos por WhatsApp.",
+    "all": "Todos los productos",
+    "from": "Desde ",
+    "currency": "₪",
+    "priceNote": "Precios de ejemplo, pendientes de actualizar",
+    "order": "Pedir",
+    "details": "Detalles",
+    "pageTitle": "La tienda",
+    "pageIntro": "Regalos y pequeños decorados que se piden en unos pocos pasos. Cada pedido está hecho a mano y lo confirmo contigo por WhatsApp antes de prepararlo.",
+    "minLead": "Pedidos con al menos {hours} horas de antelación",
+    "products": {
+      "helium-bouquet": {
+        "name": "Ramo de globos de helio",
+        "text": "Dos globos burbuja grandes y dos corazones en los colores que elijas, atados con cinta y listos para regalar."
+      },
+      "bubble-balloon": {
+        "name": "Globo burbuja personalizado",
+        "text": "Un globo transparente o de color con un nombre, una edad o un mensaje corto en letra caligráfica."
+      },
+      "flower-bouquet": {
+        "name": "Ramo de flores",
+        "text": "Flores frescas en los tonos que elijas, envueltas y listas para regalar."
+      },
+      "room-surprise": {
+        "name": "Habitación sorpresa",
+        "text": "Globos en el techo, sobre la cama y en el suelo, números de la edad y flores a elegir."
+      },
+      "giant-numbers": {
+        "name": "Números gigantes",
+        "text": "Números decorados para una edad o una fecha, para el photocall o la habitación."
+      },
+      "car-kit": {
+        "name": "Decoración del coche de los novios",
+        "text": "Paniculata, tul blanco y perlas para las manillas y el capó."
+      }
+    },
+    "form": {
+      "title": "Pedido",
+      "colors": "Colores",
+      "colorsHint": "Elige hasta tres",
+      "quantity": "Cantidad",
+      "mode": "Recogida o envío",
+      "pickup": "Recogida en Ashkelon",
+      "delivery": "Envío en Ashkelon y alrededores",
+      "deliveryNote": "El precio del envío se confirma contigo por WhatsApp",
+      "address": "Dirección de entrega",
+      "date": "Fecha",
+      "slot": "Hora",
+      "message": "Mensaje o rotulación",
+      "messagePlaceholder": "Por ej.: Feliz cumpleaños Noa, 18",
+      "name": "Nombre completo",
+      "phone": "Teléfono",
+      "total": "Total",
+      "submitWa": "Enviar el pedido por WhatsApp",
+      "submitPay": "Pago seguro",
+      "note": "El pedido me llega por WhatsApp. Confirmo disponibilidad y precio final antes de prepararlo, y el pago se hace después.",
+      "dateTooSoon": "Hay que pedir con al menos {hours} horas de antelación. Elige una fecha posterior.",
+      "dateBlocked": "Esta fecha ya está completa. Elige otra.",
+      "required": "Falta: {fields}.",
+      "payError": "El pago online no está disponible ahora mismo. Puedes enviar el pedido por WhatsApp."
+    },
+    "palette": {
+      "powder": "Rosa empolvado",
+      "pearl": "Perla",
+      "cream": "Crema",
+      "taupe": "Topo",
+      "gold": "Dorado",
+      "white": "Blanco",
+      "black": "Negro",
+      "babyblue": "Celeste",
+      "fuchsia": "Fucsia",
+      "sage": "Verde salvia"
+    }
+  },
+  "gallery": {
+    "eyebrow": "Trabajos",
+    "title": "Galería",
+    "intro": "Eventos reales de los últimos meses. Toca una foto para ampliarla, o un vídeo para verlo.",
+    "more": "Galería completa",
+    "filtersLabel": "Filtrar por tipo de evento",
+    "filters": {
+      "all": "Todo",
+      "evjf": "Despedidas",
+      "wedding": "Bodas",
+      "hafrasha": "Hafrashat jalá",
+      "birth": "Nacimientos",
+      "birthday": "Cumpleaños",
+      "balloons": "Globos y flores",
+      "room": "Habitaciones"
+    },
+    "open": "Ampliar: {title}",
+    "video": "Vídeo",
+    "close": "Cerrar",
+    "prev": "Anterior",
+    "next": "Siguiente",
+    "count": "{n} de {total}",
+    "back": "Volver al inicio"
+  },
+  "steps": {
+    "eyebrow": "Cómo funciona",
+    "title": "Tres pasos, y tú solo tienes que llegar",
+    "items": [
+      {
+        "title": "Me cuentas tu evento",
+        "text": "Fecha, lugar, número de invitados y el estilo que te gusta. También puedes enviarme fotos que te inspiren."
+      },
+      {
+        "title": "Te propongo un diseño a medida",
+        "text": "Colores, materiales y un presupuesto claro. Ajustamos hasta que sea exactamente lo que buscas."
+      },
+      {
+        "title": "El día del evento lo monto todo",
+        "text": "Llego antes que tú, monto, coloco y reviso cada detalle, para que entres a un espacio listo."
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "Encantada",
+    "title": "Soy Stav",
+    "p1": "Soy decoradora de eventos en Ashkelon. Photocalls, veladas de hafrashat jalá, bodas, globos y flores: cada evento empieza con una conversación y termina con el montaje en el lugar.",
+    "p2": "Lo que me mueve es la precisión. Una tela que cae justo, un lazo bien recto, el tono de una flor que combina con el del cartel. Nadie se fija en estos detalles uno a uno, pero todos los sienten juntos.",
+    "p3": "Nada me emociona más que el mensaje que llega después del evento: «Es exactamente lo que imaginaba». Por ese mensaje sigo creando.",
+    "abroad": "También he decorado un evento en Montenegro. ¿Preparas algo en el extranjero? Escríbeme.",
+    "photoNote": "Aquí irá una foto de Stav"
+  },
+  "reviews": {
+    "eyebrow": "Opiniones",
+    "title": "Con tus palabras",
+    "text": "Los mensajes de mis clientas están guardados en la historia destacada «אתם» («Vosotros») de mi Instagram. Pronto también aquí.",
+    "cta": "Leerlos en Instagram"
+  },
+  "request": {
+    "eyebrow": "Hablemos",
+    "title": "Cuéntame tu evento",
+    "text": "Rellena unos datos y el formulario abre WhatsApp con un mensaje listo. Seguimos la conversación allí.",
+    "whatsapp": "Escríbeme por WhatsApp",
+    "phoneLabel": "Teléfono y WhatsApp",
+    "instagramLabel": "Instagram",
+    "areaLabel": "Zona",
+    "formTitle": "Tu evento",
+    "type": "Tipo de evento",
+    "typePlaceholder": "Elegir",
+    "date": "Fecha",
+    "place": "Lugar o ciudad",
+    "guests": "Número de invitados (aprox.)",
+    "theme": "Estilo o colores",
+    "themePlaceholder": "Por ej.: blanco y crema, lazos, boho",
+    "message": "Algo más que deba saber",
+    "name": "Nombre",
+    "submit": "Enviar por WhatsApp",
+    "note": "Este sitio no guarda nada. Tus datos solo van en el mensaje de WhatsApp que se abre.",
+    "required": "Indica tu nombre y el tipo de evento."
+  },
+  "footer": {
+    "navTitle": "En el sitio",
+    "contactTitle": "Contacto",
+    "rights": "Todos los derechos reservados",
+    "legal": "Accesibilidad y privacidad"
+  },
+  "float": "Escríbeme por WhatsApp",
+  "wa": {
+    "default": "Hola Stav, he visto tu web y me gustaría saber más sobre decorar un evento.",
+    "service": "Hola Stav, me gustaría saber más sobre: {service}.",
+    "event": "Hola Stav, soy {name} y me gustaría preparar un evento contigo.\n\nTipo de evento: {type}\nFecha: {date}\nLugar: {place}\nInvitados: {guests}\nEstilo y colores: {theme}\n{message}",
+    "order": "Hola Stav, quiero hacer un pedido de la tienda:\n\n{product} × {quantity}\nColores: {colors}\n{mode}\nFecha: {date}, {slot}\nMensaje: {message}\nTotal estimado: {total}\n\n{name}, {phone}",
+    "empty": "sin indicar"
+  },
+  "suggest": {
+    "text": "Este sitio también está en español.",
+    "switch": "Ver en español",
+    "dismiss": "Seguir aquí"
+  },
+  "legal": {
+    "title": "Accesibilidad y privacidad",
+    "a11yTitle": "Declaración de accesibilidad",
+    "a11y": [
+      "Este sitio funciona con teclado, lector de pantalla y texto ampliado, siguiendo las pautas WCAG 2.1 nivel AA y la norma israelí 5568.",
+      "Cada imagen tiene una descripción en texto, el contraste se ha comprobado y las animaciones se detienen si tu dispositivo pide reducir el movimiento.",
+      "¿Has encontrado un problema? Escríbeme por WhatsApp y lo arreglo lo antes posible."
+    ],
+    "privacyTitle": "Privacidad",
+    "privacy": [
+      "Este sitio no guarda lo que escribes en los formularios. Solo pasa al mensaje de WhatsApp que decides enviar.",
+      "Tu dispositivo solo recuerda el idioma elegido y si ya viste la animación de entrada. Sin cookies publicitarias ni seguimiento."
+    ],
+    "updated": "Actualizado en noviembre de 2026"
+  },
+  "media": {
+    "hafrasha-voilages-blancs": "Mesa de hafrashat jalá con cortinas blancas y velas encendidas",
+    "hafrasha-bougies-roses-blanches": "Velas altas y rosas blancas en la mesa de hafrashat jalá",
+    "hafrasha-table-dressee": "Mesa puesta para una velada de hafrashat jalá con velas flotantes y flores blancas",
+    "hafrasha-marque-places": "Tarjetas con nombres y velas en una velada de hafrashat jalá",
+    "mariage-entree-roses-poudrees": "Bienvenida de boda con cartel personalizado y rosas rosa suave",
+    "mariage-entree-detail-fleurs": "Jarrón de rosas rosas y blancas sobre una columna vestida de blanco",
+    "mariage-entree-voilages": "Bienvenida de boda con cortinas blancas, torre de copas y flores blancas",
+    "evjf-arche-ballons-fleurs": "Photocall de despedida con guirnalda de globos rosas y flores frescas",
+    "evjf-boho-chic": "Decorado de despedida boho chic con arco blanco y rayas marrones",
+    "evjf-noa-bar-boissons": "Barra de bebidas rosa con flores y fruta en una despedida",
+    "evjf-noa-rayures-roses": "Decorado Bride to be con rayas rosas y flores sobre columnas de cristal",
+    "evjf-noeuds-bougies-flottantes": "Velas flotantes en jarrones de cristal con lazos rosas",
+    "evjf-noeuds-mur-personnalise": "Pared de lazos hechos a mano y cartel de bienvenida para una despedida",
+    "evjf-noeuds-tour-coupes": "Torre de copas de cóctel con un lazo rosa",
+    "evjf-shay-agrumes": "Decorado de despedida en fucsia y naranja con globos y rodajas de cítricos",
+    "brit-ballons-bleus-ourson": "Decorado de brit con un gran oso de peluche, cubos BABY y globos celestes y blancos",
+    "zeved-habat-detail": "Decorado de zeved habat con oso de peluche, velas y globos rosa empolvado",
+    "zeved-habat-rose-poudre": "Composición de globos para un zeved habat en rosa empolvado antiguo, perla y piedra",
+    "anniversaire-50-arche": "Arco crema con «Happy Birthday 50» y columna de globos negros y blancos",
+    "anniversaire-50-noir-blanc": "Decorado en blanco y negro para unos 50 años con candelabros",
+    "anniversaire-restaurant-helium": "Globos de helio rosas y blancos en un restaurante para un cumpleaños",
+    "chambre-anniversaire-rose": "Habitación decorada para unos 19 años con globos rosas y blancos",
+    "chambre-ballons-chrome": "Habitación llena de globos cromados dorados, plateados y verdes",
+    "chambre-ballons-hbd": "Letras HBD y globos cromados sobre la cama en una habitación sorpresa",
+    "ballons-helium-bulles": "Globos de helio crema y topo con rotulación personalizada",
+    "ballons-helium-perle-taupe": "Ramo de globos de helio: dos burbujas crema y dos corazones topo",
+    "voiture-capot-gypsophile": "Coche de novios blanco con cinta de tul y paniculata en el capó",
+    "voiture-noeud-gypsophile": "Lazo de tul blanco con ramillete de paniculata para la manilla",
+    "voiture-portiere-tulle": "Puerta del coche de los novios decorada con paniculata y tul",
+    "voiture-volant-gypsophile": "Volante adornado con un pequeño ramillete de paniculata",
+    "fleurs-panier-roses": "Cesta de flores rosas con globo corazón My Love",
+    "evjf-noeuds": "Decorado de despedida con lazos, velas y torre de copas",
+    "hafrasha": "Velada de hafrashat jalá en blanco y crema con velas",
+    "mariage-entree": "Bienvenida de boda en un jardín con rosas y velas",
+    "mariage-cheers": "Bienvenida de boda al atardecer con cortinas blancas, torre de copas y flores blancas",
+    "evjf-noa": "Decorado Bride to be con rayas rosas y barra de bebidas",
+    "evjf-arche": "Arco de globos rosas y flores frescas en una despedida",
+    "evjf-shay": "Decorado de despedida en fucsia y naranja",
+    "zeved-habat": "Decorado de zeved habat en rosa empolvado",
+    "anniversaire-50": "Montaje de un decorado en blanco y negro para unos 50 años",
+    "ballons-helium": "Globos de helio con rotulación personalizada",
+    "chambre-ballons": "Habitación sorpresa con globos cromados",
+    "installation-anniversaire": "Montaje de un decorado de cumpleaños en blanco y negro"
+  }
+}

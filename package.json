@@ -1,0 +1,31 @@
+{
+  "name": "stav-gueta",
+  "version": "1.0.0",
+  "description": "Site vitrine et boutique Stav Gueta, design d’événements (he/en/fr/es)",
+  "scripts": {
+    "gen": "node scripts/generate.mjs",
+    "media": "node scripts/media.mjs",
+    "predev": "npm run gen",
+    "dev": "vite",
+    "prebuild": "npm run gen",
+    "build": "vite build",
+    "preview": "vite preview",
+    "contenu": "node scripts/contenu.mjs",
+    "frames": "node scripts/frames.mjs"
+  },
+  "type": "module",
+  "devDependencies": {
+    "ffmpeg-static": "^5.3.0",
+    "sharp": "^0.35.5",
+    "vite": "^6.4.5"
+  },
+  "dependencies": {
+    "gsap": "^3.15.0",
+    "lenis": "^1.3.27"
+  },
+  "allowScripts": {
+    "esbuild@0.25.12": true,
+    "ffmpeg-static@5.3.0": true
+  },
+  "private": true
+}

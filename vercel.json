@@ -1,0 +1,22 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "trailingSlash": true,
+  "redirects": [
+    { "source": "/shop", "destination": "/he/shop/", "permanent": false },
+    { "source": "/shop/", "destination": "/he/shop/", "permanent": false },
+    { "source": "/gallery", "destination": "/he/gallery/", "permanent": false },
+    { "source": "/gallery/", "destination": "/he/gallery/", "permanent": false }
+  ],
+  "headers": [
+    { "source": "/media/(.*)", "headers": [{ "key": "Cache-Control", "value": "public, max-age=2592000" }] },
+    { "source": "/assets/(.*)", "headers": [{ "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }] },
+    {
+      "source": "/(.*)",
+      "headers": [
+        { "key": "X-Content-Type-Options", "value": "nosniff" },
+        { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" }
+      ]
+    }
+  ]
+}

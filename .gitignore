@@ -1,0 +1,13 @@
+node_modules/
+dist/
+/index.html
+/he/
+/en/
+/fr/
+/es/
+.vercel/
+.env*
+.DS_Store
+Thumbs.db
+assets/raw/*.mp4
+assets/raw/*.info.json

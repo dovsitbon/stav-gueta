@@ -1,0 +1,375 @@
+{
+  "lang": {
+    "dir": "ltr",
+    "short": "FR",
+    "name": "Français",
+    "ogLocale": "fr_FR"
+  },
+  "meta": {
+    "title": "Stav Gueta | Décoratrice d’événements à Ashkelon",
+    "description": "Décoration d’événements à Ashkelon : coins photo, soirées de hafrashat challah, ballons à l’hélium, fleurs fraîches, voiture des mariés. Installation sur place.",
+    "shopTitle": "Boutique : ballons et fleurs à Ashkelon | Stav Gueta",
+    "shopDescription": "Commandez bouquets de ballons à l’hélium, fleurs, chambre surprise ou décor de voiture des mariés. Couleurs, date et message au choix, à Ashkelon.",
+    "galleryTitle": "Galerie : coins photo, ballons, fleurs | Stav Gueta",
+    "galleryDescription": "De vrais événements de Stav Gueta : coins photo d’EVJF, hafrashat challah, accueils de mariage, naissances, anniversaires et chambres surprises.",
+    "legalTitle": "Accessibilité et confidentialité | Stav Gueta",
+    "legalDescription": "Déclaration d’accessibilité et politique de confidentialité du site de Stav Gueta, décoration d'événements."
+  },
+  "brand": {
+    "role": "Design d'événements",
+    "slogan": "Quand le design crée des moments qui restent",
+    "area": "Ashkelon et alentours"
+  },
+  "nav": {
+    "skip": "Aller au contenu",
+    "logo": "Stav Gueta, page d’accueil",
+    "menu": "Menu",
+    "close": "Fermer",
+    "home": "Accueil",
+    "designs": "Créations",
+    "balloonsFlowers": "Ballons & fleurs",
+    "shop": "Boutique",
+    "gallery": "Galerie",
+    "about": "À propos",
+    "contact": "Contact",
+    "whatsapp": "WhatsApp",
+    "lang": "Langue"
+  },
+  "intro": {
+    "skip": "Passer"
+  },
+  "hero": {
+    "kicker": "Design d'événements · Ashkelon",
+    "title": "Un décor qu’on ressent dès l’entrée",
+    "text": "Coins photo, soirées de hafrashat challah, ballons et fleurs fraîches. Je prépare chaque détail avec vous et j’installe tout sur place, jusqu'à la dernière bougie.",
+    "ctaPlan": "Préparer mon événement",
+    "ctaShop": "Voir la boutique",
+    "videoLabel": "Extraits d'événements décorés par Stav : coin photo d’EVJF à nœuds, soirée de hafrashat challah et accueil de mariage",
+    "pause": "Mettre la vidéo en pause",
+    "play": "Lire la vidéo"
+  },
+  "trust": [
+    "Décor sur mesure",
+    "Fleurs fraîches",
+    "Installation sur place",
+    "Ashkelon et alentours"
+  ],
+  "events": {
+    "eyebrow": "Les grands moments",
+    "title": "Ceux qu’on prépare des mois à l’avance",
+    "text": "Un grand événement part d’une seule idée : une couleur, un tissu, une fleur. Je construis tout le reste autour.",
+    "hint": "Survolez pour voir l'événement",
+    "more": "Toutes les réalisations",
+    "soon": "Photos à venir",
+    "items": {
+      "hafrasha": {
+        "name": "Soirée de hafrashat challah",
+        "text": "Avant le mariage, la future mariée et ses proches pétrissent la hallah et récitent des bénédictions. Tissus blancs qui tombent, bougies, fleurs blanches et crème, tables dressées avec précision."
+      },
+      "wedding": {
+        "name": "Mariage",
+        "text": "Accueil des invités, bouquet de mariée et voiture des mariés, dans le même esprit."
+      },
+      "mitzva": {
+        "name": "Bar et bat mitsva",
+        "text": "La majorité religieuse, à 13 ans pour les garçons et 12 ans pour les filles. Coin photo, mur de ballons et table d’accueil selon l'âge, le style et la salle."
+      },
+      "evjf": {
+        "name": "Enterrement de vie de jeune fille",
+        "text": "Mur au graphisme personnalisé, nœuds faits main, bougies flottantes et tour de verres à cocktail."
+      }
+    }
+  },
+  "services": {
+    "eyebrow": "Tout ce que je fais",
+    "title": "Douze façons de fêter",
+    "text": "D’un seul bouquet de ballons à une salle entière. Vous choisissez ce qui vous ressemble, je m’assure que ce soit exactement comme vous l’imaginiez.",
+    "ask": "En parler",
+    "soon": "Photo à venir",
+    "items": {
+      "photo": {
+        "name": "Coins photo",
+        "text": "Murs photo dessinés sur mesure, avec prénoms, date et un style accordé à l'événement."
+      },
+      "balloons": {
+        "name": "Ballons",
+        "text": "Arches, murs et bouquets à l’hélium. Oui, des ballons suffisent à transformer un restaurant en fête."
+      },
+      "flowers": {
+        "name": "Fleurs",
+        "text": "Fleurs fraîches pour les tables et les décors, bouquets d’anniversaire et bouquet de mariée."
+      },
+      "hafrasha": {
+        "name": "Hafrashat challah",
+        "text": "Le décor complet de la soirée : tissus, bougies, fleurs et art de la table."
+      },
+      "car": {
+        "name": "Voiture des mariés",
+        "text": "Gypsophile, tulle et perles sur la voiture, avec un lettrage sur la lunette arrière."
+      },
+      "evjf": {
+        "name": "EVJF",
+        "text": "Un décor au goût de la mariée : nœuds, bohème chic, rayures roses ou une idée toute neuve."
+      },
+      "mitzva": {
+        "name": "Bar et bat mitsva",
+        "text": "Coins photo, ballons et table d’accueil sur mesure."
+      },
+      "birth": {
+        "name": "Brit, brita et zeved habat",
+        "text": "Les cérémonies d’accueil d’un nouveau-né. Décors délicats en rose poudré, perle et pierre, ou bleu ciel et blanc pour une brit."
+      },
+      "birthday": {
+        "name": "Anniversaires",
+        "text": "D’une arche de ballons à un décor complet avec un panneau « Happy Birthday » au bon âge."
+      },
+      "room": {
+        "name": "Chambre surprise",
+        "text": "Une chambre surprise à la maison ou à l’hôtel : ballons, fleurs et tout ce que vous voulez y ajouter."
+      },
+      "numbers": {
+        "name": "Chiffres géants",
+        "text": "Chiffres décorés pour un âge ou une date, pour une photo dont on se souvient."
+      },
+      "special": {
+        "name": "Tou BeAv et dates spéciales",
+        "text": "Une demande en mariage, un anniversaire de couple ou Tou BeAv, la fête de l’amour en Israël. Un petit moment, un grand décor."
+      }
+    }
+  },
+  "shop": {
+    "eyebrow": "La boutique",
+    "title": "Vous commandez, je prépare",
+    "text": "Des créations à prix fixe à commander directement : couleurs, date et message au choix, puis confirmation sur WhatsApp.",
+    "all": "Tous les produits",
+    "from": "À partir de ",
+    "currency": "₪",
+    "priceNote": "Prix d’exemple, à mettre à jour",
+    "order": "Commander",
+    "details": "Détails",
+    "pageTitle": "La boutique",
+    "pageIntro": "Des cadeaux et de petits décors à commander en quelques gestes. Chaque commande est faite main et confirmée avec vous sur WhatsApp avant la préparation.",
+    "minLead": "Commande au moins {hours} heures à l’avance",
+    "products": {
+      "helium-bouquet": {
+        "name": "Bouquet de ballons à l’hélium",
+        "text": "Deux grands ballons bulles et deux cœurs dans les couleurs de votre choix, noués d’un ruban et prêts à offrir."
+      },
+      "bubble-balloon": {
+        "name": "Ballon bulle personnalisé",
+        "text": "Un ballon transparent ou coloré avec un prénom, un âge ou un petit mot en lettres calligraphiées."
+      },
+      "flower-bouquet": {
+        "name": "Bouquet de fleurs",
+        "text": "Des fleurs fraîches dans les tons que vous choisissez, emballées et prêtes à offrir."
+      },
+      "room-surprise": {
+        "name": "Chambre surprise",
+        "text": "Ballons au plafond, sur le lit et au sol, chiffres de l'âge et fleurs au choix."
+      },
+      "giant-numbers": {
+        "name": "Chiffres géants",
+        "text": "Des chiffres décorés pour un âge ou une date, pour le coin photo ou la chambre."
+      },
+      "car-kit": {
+        "name": "Décor de voiture des mariés",
+        "text": "Gypsophile, tulle blanc et perles pour les poignées et le capot."
+      }
+    },
+    "form": {
+      "title": "Commande",
+      "colors": "Couleurs",
+      "colorsHint": "Jusqu'à trois au choix",
+      "quantity": "Quantité",
+      "mode": "Retrait ou livraison",
+      "pickup": "Retrait à Ashkelon",
+      "delivery": "Livraison à Ashkelon et alentours",
+      "deliveryNote": "Le prix de la livraison est confirmé avec vous sur WhatsApp",
+      "address": "Adresse de livraison",
+      "date": "Date",
+      "slot": "Créneau",
+      "message": "Message ou lettrage",
+      "messagePlaceholder": "Par ex. : Joyeux anniversaire Noa, 18",
+      "name": "Nom complet",
+      "phone": "Téléphone",
+      "total": "Total",
+      "submitWa": "Envoyer la commande sur WhatsApp",
+      "submitPay": "Paiement sécurisé",
+      "note": "La commande m’arrive sur WhatsApp. Je confirme la disponibilité et le prix final avant de préparer, et le paiement se fait ensuite.",
+      "dateTooSoon": "Il faut commander au moins {hours} heures à l’avance. Choisissez une date plus tardive.",
+      "dateBlocked": "Cette date est complète. Choisissez-en une autre.",
+      "required": "Il manque : {fields}.",
+      "payError": "Le paiement en ligne n’est pas disponible pour le moment. Vous pouvez envoyer la commande sur WhatsApp."
+    },
+    "palette": {
+      "powder": "Rose poudré",
+      "pearl": "Perle",
+      "cream": "Crème",
+      "taupe": "Taupe",
+      "gold": "Doré",
+      "white": "Blanc",
+      "black": "Noir",
+      "babyblue": "Bleu ciel",
+      "fuchsia": "Fuchsia",
+      "sage": "Vert sauge"
+    }
+  },
+  "gallery": {
+    "eyebrow": "Réalisations",
+    "title": "Galerie",
+    "intro": "De vrais événements de ces derniers mois. Touchez une photo pour l’agrandir, ou une vidéo pour la regarder.",
+    "more": "Toute la galerie",
+    "filtersLabel": "Filtrer par type d'événement",
+    "filters": {
+      "all": "Tout",
+      "evjf": "EVJF",
+      "wedding": "Mariage",
+      "hafrasha": "Hafrashat challah",
+      "birth": "Naissances",
+      "birthday": "Anniversaires",
+      "balloons": "Ballons & fleurs",
+      "room": "Chambres"
+    },
+    "open": "Agrandir : {title}",
+    "video": "Vidéo",
+    "close": "Fermer",
+    "prev": "Précédent",
+    "next": "Suivant",
+    "count": "{n} sur {total}",
+    "back": "Retour à l’accueil"
+  },
+  "steps": {
+    "eyebrow": "Comment ça marche",
+    "title": "Trois étapes, et vous n’avez plus qu'à venir",
+    "items": [
+      {
+        "title": "Vous me racontez votre événement",
+        "text": "La date, le lieu, le nombre d’invités et le style qui vous plaît. Vous pouvez aussi m’envoyer des photos qui vous inspirent."
+      },
+      {
+        "title": "Je vous propose un décor sur mesure",
+        "text": "Couleurs, matières et un devis clair. On ajuste jusqu'à ce que ce soit exactement ça."
+      },
+      {
+        "title": "J’installe tout le jour J",
+        "text": "J’arrive avant vous, j’installe, j’arrange et je vérifie chaque détail, pour que vous entriez dans un décor prêt."
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "Enchantée",
+    "title": "Moi, c’est Stav",
+    "p1": "Je suis décoratrice d'événements à Ashkelon. Coins photo, soirées de hafrashat challah, mariages, ballons et fleurs : chaque événement commence par une conversation et se termine par l’installation sur place.",
+    "p2": "Ce qui me guide, c’est la précision. Un tissu qui tombe juste, un nœud bien droit, la nuance d’une fleur accordée à celle du panneau. Personne ne remarque ces détails un par un, mais tout le monde les ressent ensemble.",
+    "p3": "Rien ne me touche plus que le message reçu après l'événement : « C’est exactement ce que j’avais imaginé. » C’est pour ce message que je continue à créer.",
+    "abroad": "J’ai aussi décoré un événement au Monténégro. Vous préparez quelque chose à l'étranger ? Écrivez-moi.",
+    "photoNote": "Photo de Stav à ajouter ici"
+  },
+  "reviews": {
+    "eyebrow": "Ils en parlent",
+    "title": "Avec vos mots",
+    "text": "Les messages de mes clientes sont réunis dans la story à la une « אתם » (« Vous ») sur mon Instagram. Ils arrivent bientôt ici aussi.",
+    "cta": "Les lire sur Instagram"
+  },
+  "request": {
+    "eyebrow": "Parlons-en",
+    "title": "Racontez-moi votre événement",
+    "text": "Remplissez quelques champs : le formulaire ouvre WhatsApp avec un message prêt. On continue la conversation là-bas.",
+    "whatsapp": "M'écrire sur WhatsApp",
+    "phoneLabel": "Téléphone et WhatsApp",
+    "instagramLabel": "Instagram",
+    "areaLabel": "Zone",
+    "formTitle": "Votre événement",
+    "type": "Type d'événement",
+    "typePlaceholder": "Choisir",
+    "date": "Date",
+    "place": "Lieu ou ville",
+    "guests": "Nombre d’invités (environ)",
+    "theme": "Thème ou couleurs",
+    "themePlaceholder": "Par ex. : blanc et crème, nœuds, bohème",
+    "message": "Autre chose à savoir",
+    "name": "Nom",
+    "submit": "Envoyer sur WhatsApp",
+    "note": "Rien n’est enregistré sur ce site. Vos informations vont uniquement dans le message WhatsApp qui s’ouvre.",
+    "required": "Merci d’indiquer votre nom et le type d'événement."
+  },
+  "footer": {
+    "navTitle": "Sur le site",
+    "contactTitle": "Contact",
+    "rights": "Tous droits réservés",
+    "legal": "Accessibilité et confidentialité"
+  },
+  "float": "M'écrire sur WhatsApp",
+  "wa": {
+    "default": "Bonjour Stav, j’ai vu votre site et j’aimerais en savoir plus sur la décoration d’un événement.",
+    "service": "Bonjour Stav, j’aimerais en savoir plus sur : {service}.",
+    "event": "Bonjour Stav, je m’appelle {name} et j’aimerais préparer un événement avec vous.\n\nType d'événement : {type}\nDate : {date}\nLieu : {place}\nInvités : {guests}\nThème et couleurs : {theme}\n{message}",
+    "order": "Bonjour Stav, je voudrais commander dans la boutique :\n\n{product} × {quantity}\nCouleurs : {colors}\n{mode}\nDate : {date}, {slot}\nMessage : {message}\nTotal estimé : {total}\n\n{name}, {phone}",
+    "empty": "non précisé"
+  },
+  "suggest": {
+    "text": "Ce site existe aussi en français.",
+    "switch": "Passer en français",
+    "dismiss": "Rester ici"
+  },
+  "legal": {
+    "title": "Accessibilité et confidentialité",
+    "a11yTitle": "Déclaration d’accessibilité",
+    "a11y": [
+      "Ce site fonctionne au clavier, avec un lecteur d'écran et un texte agrandi, selon les règles WCAG 2.1 niveau AA et la norme israélienne 5568.",
+      "Chaque image a une description textuelle, le contraste du texte a été vérifié, et les animations s’arrêtent si votre appareil demande moins de mouvement.",
+      "Un problème ? Écrivez-moi sur WhatsApp et je le corrige au plus vite."
+    ],
+    "privacyTitle": "Confidentialité",
+    "privacy": [
+      "Ce site n’enregistre pas ce que vous saisissez dans les formulaires. Tout passe uniquement dans le message WhatsApp que vous décidez d’envoyer.",
+      "Votre appareil retient seulement la langue choisie et si vous avez déjà vu l’animation d’ouverture. Pas de cookies publicitaires, pas de suivi."
+    ],
+    "updated": "Mis à jour en novembre 2026"
+  },
+  "media": {
+    "hafrasha-voilages-blancs": "Table de hafrashat challah avec voilages blancs et bougies allumées",
+    "hafrasha-bougies-roses-blanches": "Grandes bougies et roses blanches sur la table de hafrashat challah",
+    "hafrasha-table-dressee": "Table dressée pour une soirée de hafrashat challah, bougies flottantes et fleurs blanches",
+    "hafrasha-marque-places": "Marque-places et bougies sur la table d’une soirée de hafrashat challah",
+    "mariage-entree-roses-poudrees": "Accueil de mariage avec panneau personnalisé et roses rose tendre",
+    "mariage-entree-detail-fleurs": "Vase de roses roses et blanches sur une colonne drapée de blanc",
+    "mariage-entree-voilages": "Accueil de mariage avec voilages blancs, tour de coupes et fleurs blanches",
+    "evjf-arche-ballons-fleurs": "Coin photo d’EVJF avec guirlande de ballons roses et fleurs fraîches",
+    "evjf-boho-chic": "Décor d’EVJF bohème chic avec arche blanche et rayures marron",
+    "evjf-noa-bar-boissons": "Bar à boissons rose avec fleurs et fruits pour un EVJF",
+    "evjf-noa-rayures-roses": "Décor Bride to be à rayures roses avec fleurs sur colonnes de verre",
+    "evjf-noeuds-bougies-flottantes": "Bougies flottantes dans des vases en verre noués de rubans roses",
+    "evjf-noeuds-mur-personnalise": "Mur de nœuds faits main et panneau de bienvenue pour un EVJF",
+    "evjf-noeuds-tour-coupes": "Tour de verres à cocktail avec un nœud rose",
+    "evjf-shay-agrumes": "Décor d’EVJF fuchsia et orange avec ballons et tranches d’agrumes",
+    "brit-ballons-bleus-ourson": "Décor de brit avec grand ours en peluche, cubes BABY et ballons bleu ciel et blancs",
+    "zeved-habat-detail": "Décor de zeved habat avec ours en peluche, bougies et ballons rose poudré",
+    "zeved-habat-rose-poudre": "Stand de ballons pour un zeved habat en rose poudré ancien, perle et pierre",
+    "anniversaire-50-arche": "Arche crème « Happy Birthday 50 » et colonne de ballons noirs et blancs",
+    "anniversaire-50-noir-blanc": "Décor noir et blanc pour des 50 ans avec chandeliers",
+    "anniversaire-restaurant-helium": "Ballons à l’hélium roses et blancs dans un restaurant pour un anniversaire",
+    "chambre-anniversaire-rose": "Chambre décorée pour des 19 ans avec ballons roses et blancs",
+    "chambre-ballons-chrome": "Chambre remplie de ballons chromés or, argent et vert",
+    "chambre-ballons-hbd": "Lettres HBD et ballons chromés sur le lit d’une chambre surprise",
+    "ballons-helium-bulles": "Ballons à l’hélium crème et taupe avec lettrage personnalisé",
+    "ballons-helium-perle-taupe": "Bouquet de ballons à l’hélium : deux bulles crème et deux cœurs taupe",
+    "voiture-capot-gypsophile": "Voiture des mariés blanche avec ruban de tulle et gypsophile sur le capot",
+    "voiture-noeud-gypsophile": "Nœud de tulle blanc avec bouquet de gypsophile pour la poignée",
+    "voiture-portiere-tulle": "Portière de voiture des mariés décorée de gypsophile et de tulle",
+    "voiture-volant-gypsophile": "Volant orné d’un petit bouquet de gypsophile",
+    "fleurs-panier-roses": "Panier de fleurs roses avec ballon cœur My Love",
+    "evjf-noeuds": "Décor d’EVJF à nœuds avec bougies et tour de coupes",
+    "hafrasha": "Soirée de hafrashat challah en blanc et crème aux bougies",
+    "mariage-entree": "Accueil de mariage en jardin avec roses et bougies",
+    "mariage-cheers": "Accueil de mariage à la tombée du jour : voilages blancs, tour de coupes et fleurs blanches",
+    "evjf-noa": "Décor Bride to be à rayures roses et bar à boissons",
+    "evjf-arche": "Arche de ballons roses et fleurs fraîches pour un EVJF",
+    "evjf-shay": "Décor d’EVJF fuchsia et orange",
+    "zeved-habat": "Décor de zeved habat en rose poudré",
+    "anniversaire-50": "Installation d’un décor noir et blanc pour des 50 ans",
+    "ballons-helium": "Ballons à l’hélium avec lettrage personnalisé",
+    "chambre-ballons": "Chambre surprise en ballons chromés",
+    "installation-anniversaire": "Installation d’un décor d’anniversaire noir et blanc"
+  }
+}

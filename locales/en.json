@@ -1,0 +1,375 @@
+{
+  "lang": {
+    "dir": "ltr",
+    "short": "EN",
+    "name": "English",
+    "ogLocale": "en_US"
+  },
+  "meta": {
+    "title": "Stav Gueta | Event Designer in Ashkelon: Photo Walls & Balloons",
+    "description": "Event design in Ashkelon: custom photo walls, hafrashat challah evenings, helium balloons, fresh flowers and bridal cars. Planned with you, set up on site.",
+    "shopTitle": "Shop: Balloon Bouquets & Flowers in Ashkelon | Stav Gueta",
+    "shopDescription": "Order helium balloon bouquets, flower bouquets, a surprise room or a bridal car kit. Pick colours, date and message; ready in Ashkelon and nearby.",
+    "galleryTitle": "Gallery: Photo Walls, Balloons & Flowers | Stav Gueta",
+    "galleryDescription": "Real events by Stav Gueta: bachelorette photo walls, hafrashat challah evenings, wedding welcome displays, births, birthdays and room surprises.",
+    "legalTitle": "Accessibility and privacy | Stav Gueta",
+    "legalDescription": "Accessibility statement and privacy policy for the Stav Gueta event design website."
+  },
+  "brand": {
+    "role": "Event Design",
+    "slogan": "When design creates moments that stay",
+    "area": "Ashkelon and nearby"
+  },
+  "nav": {
+    "skip": "Skip to content",
+    "logo": "Stav Gueta, home page",
+    "menu": "Menu",
+    "close": "Close",
+    "home": "Home",
+    "designs": "Designs",
+    "balloonsFlowers": "Balloons & flowers",
+    "shop": "Shop",
+    "gallery": "Gallery",
+    "about": "About",
+    "contact": "Contact",
+    "whatsapp": "WhatsApp",
+    "lang": "Language"
+  },
+  "intro": {
+    "skip": "Skip"
+  },
+  "hero": {
+    "kicker": "Event design · Ashkelon",
+    "title": "Design you feel the moment you walk in",
+    "text": "Photo walls, hafrashat challah evenings, balloons and fresh flowers. I plan every detail with you and set it all up on site, down to the last candle.",
+    "ctaPlan": "Plan your event",
+    "ctaShop": "Visit the shop",
+    "videoLabel": "Clips from events Stav designed: a bow-themed bachelorette wall, a hafrashat challah evening and a wedding welcome display",
+    "pause": "Pause video",
+    "play": "Play video"
+  },
+  "trust": [
+    "Custom design for every event",
+    "Fresh flowers",
+    "Set up on site",
+    "Ashkelon and nearby"
+  ],
+  "events": {
+    "eyebrow": "The big days",
+    "title": "The moments people plan for months",
+    "text": "A big event starts with one idea: a colour, a fabric, a flower. I build everything else around it.",
+    "hint": "Hover to see the event",
+    "more": "See all work",
+    "soon": "Photos on the way",
+    "items": {
+      "hafrasha": {
+        "name": "Hafrashat challah evening",
+        "text": "A gathering where a bride and the women close to her bake challah and say blessings before the wedding. Flowing white fabric, candles, white and cream flowers, tables set with care."
+      },
+      "wedding": {
+        "name": "Weddings",
+        "text": "Welcome display, bridal bouquet and bridal car decoration, all in the same design language."
+      },
+      "mitzva": {
+        "name": "Bar & bat mitzvah",
+        "text": "The coming-of-age celebration at 13 (12 for girls). Photo wall, balloon wall and welcome table matched to the age, style and venue."
+      },
+      "evjf": {
+        "name": "Bachelorette parties",
+        "text": "A custom-printed wall, handmade bows, floating candles and a cocktail glass tower."
+      }
+    }
+  },
+  "services": {
+    "eyebrow": "Everything I do",
+    "title": "Twelve ways to celebrate",
+    "text": "From a single balloon bouquet to a full hall. Choose what suits you, and I make sure it looks exactly as you pictured it.",
+    "ask": "Ask about this",
+    "soon": "Photo coming soon",
+    "items": {
+      "photo": {
+        "name": "Photo walls",
+        "text": "Custom-designed backdrops with names, a date and a look that fits the event."
+      },
+      "balloons": {
+        "name": "Balloons",
+        "text": "Arches, walls and helium bouquets. Yes, balloons alone can turn a restaurant into a party."
+      },
+      "flowers": {
+        "name": "Flowers",
+        "text": "Fresh flowers for tables and displays, birthday bouquets and bridal bouquets."
+      },
+      "hafrasha": {
+        "name": "Hafrashat challah",
+        "text": "Full design for the evening: fabric, candles, flowers and table settings."
+      },
+      "car": {
+        "name": "Bridal car",
+        "text": "Gypsophila, tulle and pearls for the couple’s car, with lettering on the rear window."
+      },
+      "evjf": {
+        "name": "Bachelorette",
+        "text": "A wall in the bride’s style: bows, boho chic, pink stripes or something completely new."
+      },
+      "mitzva": {
+        "name": "Bar & bat mitzvah",
+        "text": "Photo walls, balloons and a welcome table made to measure."
+      },
+      "birth": {
+        "name": "Brit, britah & zeved habat",
+        "text": "Ceremonies welcoming a newborn. Soft displays in dusty pink, pearl and stone, or light blue and white for a brit."
+      },
+      "birthday": {
+        "name": "Birthdays",
+        "text": "From a balloon arch to a full display with a “Happy Birthday” sign at the right age."
+      },
+      "room": {
+        "name": "Room surprises",
+        "text": "A surprise room at home or in a hotel: balloons, flowers and anything you want to add."
+      },
+      "numbers": {
+        "name": "Giant numbers",
+        "text": "Decorated giant numbers for an age or a date, for a photo people remember."
+      },
+      "special": {
+        "name": "Tu B’Av & special dates",
+        "text": "A proposal, an anniversary or Tu B’Av, the Israeli day of love. A small moment with a big design."
+      }
+    }
+  },
+  "shop": {
+    "eyebrow": "The shop",
+    "title": "You order, I prepare",
+    "text": "Fixed-price pieces you can order directly: choose colours, a date and a message, then confirm on WhatsApp.",
+    "all": "All products",
+    "from": "From ",
+    "currency": "₪",
+    "priceNote": "Sample prices, to be updated",
+    "order": "Order",
+    "details": "Details",
+    "pageTitle": "The shop",
+    "pageIntro": "Gifts and small designs you can order in a few taps. Each order is handmade and confirmed with you on WhatsApp before I start.",
+    "minLead": "Orders at least {hours} hours ahead",
+    "products": {
+      "helium-bouquet": {
+        "name": "Helium balloon bouquet",
+        "text": "Two large bubble balloons and two hearts in the colours you choose, tied with ribbon and ready to hand over."
+      },
+      "bubble-balloon": {
+        "name": "Personalised bubble balloon",
+        "text": "A clear or coloured balloon with a name, an age or a short message in script lettering."
+      },
+      "flower-bouquet": {
+        "name": "Flower bouquet",
+        "text": "Fresh flowers in the shades you pick, wrapped and ready to give."
+      },
+      "room-surprise": {
+        "name": "Surprise room set-up",
+        "text": "Balloons on the ceiling, the bed and the floor, numbers for the age and flowers of your choice."
+      },
+      "giant-numbers": {
+        "name": "Giant numbers",
+        "text": "Decorated numbers for an age or a date, for the photo wall or the room."
+      },
+      "car-kit": {
+        "name": "Bridal car decoration",
+        "text": "Gypsophila, white tulle and pearls for the handles and the bonnet."
+      }
+    },
+    "form": {
+      "title": "Order",
+      "colors": "Colours",
+      "colorsHint": "Choose up to three",
+      "quantity": "Quantity",
+      "mode": "Pick-up or delivery",
+      "pickup": "Pick-up in Ashkelon",
+      "delivery": "Delivery in Ashkelon and nearby",
+      "deliveryNote": "Delivery cost is confirmed with you on WhatsApp",
+      "address": "Delivery address",
+      "date": "Date",
+      "slot": "Time",
+      "message": "Message or lettering",
+      "messagePlaceholder": "e.g. Happy birthday Noa, 18",
+      "name": "Full name",
+      "phone": "Phone",
+      "total": "Total",
+      "submitWa": "Send order on WhatsApp",
+      "submitPay": "Secure payment",
+      "note": "Your order is sent to me on WhatsApp. I confirm availability and the final price before preparing it, and payment happens after that.",
+      "dateTooSoon": "Orders need at least {hours} hours' notice. Please pick a later date.",
+      "dateBlocked": "This date is fully booked. Please pick another one.",
+      "required": "Missing: {fields}.",
+      "payError": "Online payment is not available right now. You can send the order on WhatsApp."
+    },
+    "palette": {
+      "powder": "Dusty pink",
+      "pearl": "Pearl",
+      "cream": "Cream",
+      "taupe": "Taupe",
+      "gold": "Gold",
+      "white": "White",
+      "black": "Black",
+      "babyblue": "Light blue",
+      "fuchsia": "Fuchsia",
+      "sage": "Sage"
+    }
+  },
+  "gallery": {
+    "eyebrow": "Work",
+    "title": "Gallery",
+    "intro": "Real events from the past months. Tap a photo to enlarge it, or a clip to watch it.",
+    "more": "Full gallery",
+    "filtersLabel": "Filter by type of event",
+    "filters": {
+      "all": "All",
+      "evjf": "Bachelorettes",
+      "wedding": "Weddings",
+      "hafrasha": "Hafrashat challah",
+      "birth": "Births",
+      "birthday": "Birthdays",
+      "balloons": "Balloons & flowers",
+      "room": "Room surprises"
+    },
+    "open": "Enlarge: {title}",
+    "video": "Video",
+    "close": "Close",
+    "prev": "Previous",
+    "next": "Next",
+    "count": "{n} of {total}",
+    "back": "Back to home"
+  },
+  "steps": {
+    "eyebrow": "How it works",
+    "title": "Three steps, then you just show up",
+    "items": [
+      {
+        "title": "Tell me about your event",
+        "text": "Date, venue, number of guests and the style you like. Feel free to send photos that inspire you."
+      },
+      {
+        "title": "I suggest a custom design",
+        "text": "Colours, materials and a clear quote. We adjust until it feels exactly right."
+      },
+      {
+        "title": "On the day, I set everything up",
+        "text": "I arrive before you, set up, arrange and check every detail, so you walk into a finished room."
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "Nice to meet you",
+    "title": "I’m Stav",
+    "p1": "I’m an event designer based in Ashkelon. Photo walls, hafrashat challah evenings, weddings, balloons and flowers: every event starts with a conversation and ends with me setting it up on site.",
+    "p2": "What drives me is precision. Fabric that falls just right, a bow that sits straight, a flower shade that matches the sign. Nobody notices these details one by one, but everyone feels them together.",
+    "p3": "Nothing beats the message that arrives after the event: “It’s exactly what I imagined.” That message is why I keep creating.",
+    "abroad": "I have also designed an event in Montenegro. Planning something abroad? Write to me.",
+    "photoNote": "Photo of Stav to be added here"
+  },
+  "reviews": {
+    "eyebrow": "Kind words",
+    "title": "In your words",
+    "text": "Messages from clients are saved in the “אתם” (“You”) highlight on my Instagram. They’ll be here soon too.",
+    "cta": "See them on Instagram"
+  },
+  "request": {
+    "eyebrow": "Let’s plan",
+    "title": "Tell me about your event",
+    "text": "Fill in a few details and the form opens WhatsApp with a ready message. We continue the conversation from there.",
+    "whatsapp": "Message me on WhatsApp",
+    "phoneLabel": "Phone & WhatsApp",
+    "instagramLabel": "Instagram",
+    "areaLabel": "Area",
+    "formTitle": "Event details",
+    "type": "Type of event",
+    "typePlaceholder": "Choose",
+    "date": "Date",
+    "place": "Venue or city",
+    "guests": "Number of guests (roughly)",
+    "theme": "Style or colours",
+    "themePlaceholder": "e.g. white and cream, bows, boho",
+    "message": "Anything else I should know",
+    "name": "Name",
+    "submit": "Send on WhatsApp",
+    "note": "Nothing is stored on this site. Your details only go into the WhatsApp message that opens.",
+    "required": "Please fill in your name and the type of event."
+  },
+  "footer": {
+    "navTitle": "On this site",
+    "contactTitle": "Contact",
+    "rights": "All rights reserved",
+    "legal": "Accessibility & privacy"
+  },
+  "float": "Message me on WhatsApp",
+  "wa": {
+    "default": "Hi Stav, I saw your website and would love to hear about designing my event.",
+    "service": "Hi Stav, I’d love to hear more about {service}.",
+    "event": "Hi Stav, I’m {name} and I’d like to plan an event with you.\n\nType of event: {type}\nDate: {date}\nVenue: {place}\nGuests: {guests}\nStyle and colours: {theme}\n{message}",
+    "order": "Hi Stav, I’d like to order from the shop:\n\n{product} × {quantity}\nColours: {colors}\n{mode}\nDate: {date}, {slot}\nMessage: {message}\nEstimated total: {total}\n\n{name}, {phone}",
+    "empty": "not specified"
+  },
+  "suggest": {
+    "text": "This site is also available in English.",
+    "switch": "Switch to English",
+    "dismiss": "Stay here"
+  },
+  "legal": {
+    "title": "Accessibility and privacy",
+    "a11yTitle": "Accessibility statement",
+    "a11y": [
+      "This site is built to work with a keyboard, screen readers and enlarged text, following WCAG 2.1 level AA and Israeli Standard 5568.",
+      "Every image has a text description, text contrast has been checked, and animations stop when your device asks for reduced motion.",
+      "Found a problem? Message me on WhatsApp and I’ll fix it as soon as possible."
+    ],
+    "privacyTitle": "Privacy",
+    "privacy": [
+      "This site does not store what you type into the forms. It only goes into the WhatsApp message you choose to send.",
+      "Your device only remembers the language you picked and whether you’ve already seen the opening animation. No advertising cookies, no tracking."
+    ],
+    "updated": "Updated November 2026"
+  },
+  "media": {
+    "hafrasha-voilages-blancs": "Hafrashat challah table with white drapes and lit candles",
+    "hafrasha-bougies-roses-blanches": "Tall candles and white roses on the hafrashat challah table",
+    "hafrasha-table-dressee": "Table set for a hafrashat challah evening with floating candles and white flowers",
+    "hafrasha-marque-places": "Name cards and candles on the table at a hafrashat challah evening",
+    "mariage-entree-roses-poudrees": "Wedding welcome display with a custom sign and soft pink roses",
+    "mariage-entree-detail-fleurs": "Vase of pink and white roses on a white-draped pedestal",
+    "mariage-entree-voilages": "Wedding welcome display with white drapes, a glass tower and white flowers",
+    "evjf-arche-ballons-fleurs": "Bachelorette photo wall with a pink balloon garland and fresh flowers",
+    "evjf-boho-chic": "Boho chic bachelorette display with a white arch and brown stripes",
+    "evjf-noa-bar-boissons": "Pink drinks bar with flowers and fruit at a bachelorette party",
+    "evjf-noa-rayures-roses": "Bride to be display with pink stripes and flowers on glass stands",
+    "evjf-noeuds-bougies-flottantes": "Floating candles in glass vases tied with pink bows",
+    "evjf-noeuds-mur-personnalise": "Handmade bow wall and welcome sign for a bachelorette party",
+    "evjf-noeuds-tour-coupes": "Cocktail glass tower with a pink bow",
+    "evjf-shay-agrumes": "Fuchsia and orange bachelorette display with balloons and citrus slices",
+    "brit-ballons-bleus-ourson": "Brit display with a large teddy bear, BABY blocks and light blue and white balloons",
+    "zeved-habat-detail": "Zeved habat display with a teddy bear, candles and dusty pink balloons",
+    "zeved-habat-rose-poudre": "Zeved habat balloon display in antique dusty pink, pearl and stone",
+    "anniversaire-50-arche": "Cream arch reading Happy Birthday 50 with a black and white balloon column",
+    "anniversaire-50-noir-blanc": "Black and white 50th birthday display with candlesticks",
+    "anniversaire-restaurant-helium": "Pink and white helium balloons in a restaurant for a birthday",
+    "chambre-anniversaire-rose": "Room set up for a 19th birthday with pink and white balloons",
+    "chambre-ballons-chrome": "Room filled with gold, silver and green chrome balloons",
+    "chambre-ballons-hbd": "HBD letters and chrome balloons on the bed in a room surprise",
+    "ballons-helium-bulles": "Cream and taupe helium balloons with custom lettering",
+    "ballons-helium-perle-taupe": "Helium balloon bouquet: two cream bubbles and two taupe hearts",
+    "voiture-capot-gypsophile": "White bridal car with tulle ribbon and gypsophila on the bonnet",
+    "voiture-noeud-gypsophile": "White tulle bow with a gypsophila posy for the car handle",
+    "voiture-portiere-tulle": "Bridal car door decorated with gypsophila and tulle",
+    "voiture-volant-gypsophile": "Steering wheel decorated with a small gypsophila posy",
+    "fleurs-panier-roses": "Basket of pink flowers with a My Love heart balloon",
+    "evjf-noeuds": "Bow-themed bachelorette display with candles and a glass tower",
+    "hafrasha": "Hafrashat challah evening in white and cream with candles",
+    "mariage-entree": "Garden wedding welcome display with roses and candles",
+    "mariage-cheers": "Wedding welcome display at dusk with white drapes, a glass tower and white flowers",
+    "evjf-noa": "Bride to be display in pink stripes with a drinks bar",
+    "evjf-arche": "Pink balloon arch and fresh flowers at a bachelorette party",
+    "evjf-shay": "Fuchsia and orange bachelorette display",
+    "zeved-habat": "Zeved habat display in dusty pink",
+    "anniversaire-50": "Setting up a black and white 50th birthday display",
+    "ballons-helium": "Helium balloons with custom lettering",
+    "chambre-ballons": "Room surprise with chrome balloons",
+    "installation-anniversaire": "Setting up a black and white birthday display"
+  }
+}

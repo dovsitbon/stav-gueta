@@ -1,0 +1,307 @@
+{
+ "hafrashat-hala/hafrasha-bougies-roses-blanches": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "hafrashat-hala/hafrasha-marque-places": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "hafrashat-hala/hafrasha-table-dressee": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "hafrashat-hala/hafrasha-voilages-blancs": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "coins-photo/mariage-entree-detail-fleurs": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "coins-photo/mariage-entree-roses-poudrees": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "coins-photo/mariage-entree-voilages": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "ballons/ballons-helium-bulles": {
+  "w": 1080,
+  "h": 1440,
+  "widths": [
+   480,
+   960,
+   1080
+  ]
+ },
+ "ballons/ballons-helium-perle-taupe": {
+  "w": 2268,
+  "h": 3024,
+  "widths": [
+   480,
+   960,
+   1600
+  ]
+ },
+ "fleurs/fleurs-panier-roses": {
+  "w": 720,
+  "h": 998,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "voiture-maries/voiture-capot-gypsophile": {
+  "w": 720,
+  "h": 870,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "voiture-maries/voiture-noeud-gypsophile": {
+  "w": 720,
+  "h": 768,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "voiture-maries/voiture-portiere-tulle": {
+  "w": 720,
+  "h": 794,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "voiture-maries/voiture-volant-gypsophile": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "evjf/evjf-arche-ballons-fleurs": {
+  "w": 1440,
+  "h": 1731,
+  "widths": [
+   480,
+   960,
+   1440
+  ]
+ },
+ "evjf/evjf-boho-chic": {
+  "w": 720,
+  "h": 1024,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "evjf/evjf-noa-bar-boissons": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "evjf/evjf-noa-rayures-roses": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "evjf/evjf-noeuds-bougies-flottantes": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "evjf/evjf-noeuds-mur-personnalise": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "evjf/evjf-noeuds-tour-coupes": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "evjf/evjf-shay-agrumes": {
+  "w": 3077,
+  "h": 4096,
+  "widths": [
+   480,
+   960,
+   1600
+  ]
+ },
+ "naissances/brit-ballons-bleus-ourson": {
+  "w": 720,
+  "h": 922,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "naissances/zeved-habat-detail": {
+  "w": 720,
+  "h": 960,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "naissances/zeved-habat-rose-poudre": {
+  "w": 1440,
+  "h": 1920,
+  "widths": [
+   480,
+   960,
+   1440
+  ]
+ },
+ "anniversaires/anniversaire-50-arche": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "anniversaires/anniversaire-50-noir-blanc": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "anniversaires/anniversaire-restaurant-helium": {
+  "w": 720,
+  "h": 794,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "chambres/chambre-anniversaire-rose": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "chambres/chambre-ballons-chrome": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "chambres/chambre-ballons-hbd": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "about/installation-anniversaire": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "videos/anniversaire-50": {
+  "w": 720,
+  "h": 1280
+ },
+ "videos/ballons-helium": {
+  "w": 720,
+  "h": 960
+ },
+ "videos/chambre-ballons": {
+  "w": 720,
+  "h": 1280
+ },
+ "videos/evjf-arche": {
+  "w": 720,
+  "h": 866
+ },
+ "videos/evjf-noa": {
+  "w": 720,
+  "h": 1280
+ },
+ "videos/evjf-noeuds": {
+  "w": 720,
+  "h": 1280
+ },
+ "videos/evjf-shay": {
+  "w": 720,
+  "h": 958
+ },
+ "videos/hafrasha": {
+  "w": 720,
+  "h": 1280
+ },
+ "videos/mariage-cheers": {
+  "w": 720,
+  "h": 1280
+ },
+ "videos/mariage-entree": {
+  "w": 720,
+  "h": 1280
+ },
+ "videos/zeved-habat": {
+  "w": 720,
+  "h": 960
+ }
+}

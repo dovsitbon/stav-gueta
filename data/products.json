@@ -1,0 +1,58 @@
+{
+  "_comment": "Prix d'exemple À REMPLIR avec la cliente (en shekels). price: null = sur devis. blockedDates: dates complètes (AAAA-MM-JJ). stripeEnabled: passer à true quand STRIPE_SECRET_KEY est configurée sur Vercel.",
+  "settings": {
+    "currency": "ILS",
+    "minLeadHours": 48,
+    "blockedDates": [],
+    "slots": ["09:00-12:00", "12:00-15:00", "15:00-18:00", "18:00-21:00"],
+    "closedWeekdays": [6],
+    "stripeEnabled": false
+  },
+  "products": [
+    {
+      "id": "helium-bouquet",
+      "price": 180,
+      "image": "ballons/ballons-helium-perle-taupe",
+      "video": "ballons-helium",
+      "colors": ["cream", "taupe", "powder", "pearl", "white", "gold", "black", "babyblue"],
+      "maxQuantity": 10,
+      "featured": true
+    },
+    {
+      "id": "flower-bouquet",
+      "price": 220,
+      "image": "fleurs/fleurs-panier-roses",
+      "colors": ["powder", "white", "cream", "fuchsia", "sage"],
+      "maxQuantity": 5
+    },
+    {
+      "id": "room-surprise",
+      "price": 650,
+      "image": "chambres/chambre-anniversaire-rose",
+      "video": "chambre-ballons",
+      "colors": ["powder", "white", "gold", "pearl", "black", "sage"],
+      "maxQuantity": 1
+    },
+    {
+      "id": "car-kit",
+      "price": 350,
+      "image": "voiture-maries/voiture-noeud-gypsophile",
+      "colors": ["white", "cream", "powder"],
+      "maxQuantity": 1
+    },
+    {
+      "id": "bubble-balloon",
+      "price": 90,
+      "image": "ballons/ballons-helium-bulles",
+      "colors": ["cream", "pearl", "powder", "white", "babyblue"],
+      "maxQuantity": 10
+    },
+    {
+      "id": "giant-numbers",
+      "price": 250,
+      "image": null,
+      "colors": ["powder", "white", "gold", "black", "babyblue"],
+      "maxQuantity": 2
+    }
+  ]
+}
