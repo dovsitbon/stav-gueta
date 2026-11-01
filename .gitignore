@@ -11,3 +11,6 @@ dist/
 Thumbs.db
 assets/raw/*.mp4
 assets/raw/*.info.json
+
+.vercel
+.env*
